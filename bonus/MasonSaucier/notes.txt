@@ -1,0 +1,3 @@
+Instruments: cello-pluck, piano-bright, drumset
+
+This is a song utilizing a simple chord progression to further the music
