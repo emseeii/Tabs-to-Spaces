@@ -1,0 +1,2 @@
+Instrument: piano-bright
+Notes: Error when playing chords with multiple brights
