@@ -1,0 +1,69 @@
+Malak's Gametype ideas:
+
+Number Two Headband (inspired by Afro Samurai)
+  Overview: There are two headbands, the number 1 and number 2. He who possesses the number 1 headband is invincible except to the number 2. The number 2 headband grants no special powers except the ability to kill the number 1.
+  Special rules: The wearer of the number 1 headband cannot run due to the power of his headband. When the number 2 attacks the number 1, he must have the headband on his person and he must call out "2!" with each strike.
+  Rules: If the number 2 dies, he drops his headband and the first to pick it up becomes the new number 2. When the number 1 dies, he gives his headband to the number 2, who wins the round since he is invincible as he owns both headbands.
+  Goal: Become the number 1.
+  Respawns: Off. The number 1 headband is persistent between rounds. The number 2 is randomly assigned at the start of each round.
+  Notes: Might need refinement. Headbands can work by either being actual headbands or being a loop of colored cloth held in the hand.
+
+Javelin Doctor
+  Overview: Witch doctor battle with a twist: the witch doctors have javelins instead of daggers.
+  Special rules: Only witch doctors may pick up the javelins. Anyone else attempting to do so dies from contact with their magical energies. A witch doctor may have multiple javelins at the same time.
+  Rules: Witch doctors heal by stabbing with their javelin. A thrown javelin, however, deals damage like a normal javelin would.
+  Goal: Be the last team standing.
+  Respawns: Off. The witch doctor may resurrect a player by stabbing them.
+  Notes: Appears to be a good variant of the Witch Doctor by giving the witch doctors some offensive power at great personal risk. Healing Huts are an optional addition; the gametype should work well with or without them. Might be interesting to try with arrows instead of javelins (untested, could be crap).
+
+Angel of Death
+  Overview: One player is the Angel of Death. They carry two weapons: a dagger and a sword. The dagger heals, the sword deals black damage.
+  Special rules: The Angel's dagger may resurrect players. The angel's sword breaks any swords or shields used to block it.
+  Rules: There are two teams. The Angel is on neither team.
+  Goal: Be the last team standing while the Angel is dead.
+  Respawns: Off, except for the Angel. The Angel respawns after 30 seconds unless only one team remains. If the Angel is dead and the last player on a team is killed, the game is over. The Angel's goal is to keep both teams balanced.
+  Notes: Originally tried this with no Angel respawns, but the Angel ends up dying immediately. Angel respawns eliminate this issue. Could scale up the number of teams/number of angels for larger battles (untested, would probably need refinement).
+
+Odinball
+  Overview: Orc football with Odin's Third Nut as the ball.
+  Special rules: The ball breaks any sword or shield used to block it, and instantly kills any player hit by it. Players with the ball cannot run because it is so heavy.
+  Rules: There are two teams. Play continues until one teams scores, and then the teams reset for a kickoff.
+  Goal: A goal is scored when a player on your team possesses the ball beyond your opponent's goal line.
+  Respawns: Instant at a respawn point a good ways behind your team's goal line.
+  Notes: Untested, could be crap. But worth a shot. This could be interesting with all players only allowed to carry a single blue sword.
+
+Spy!
+  Overview: One player is the spy, and instantly changes sides when their code word is called.
+  Special rules: One player (the "champion") on the smaller team goes to each player on the larger team and tells them each whether they are the spy or not. When they choose the spy, they also tell them a code word.
+  Rules: There are two teams, a larger and a smaller (ratio of around 3:2 would probably work well). The spy is always on the larger team. The spy is under cover until the champion calls the code word, at which point the spy changes sides instantly. The champion can and should call out bogus code words to disguise when the real word is called.
+  Goal: Be the last team standing.
+  Respawns: Off.
+  Notes: Could be modified to have even teams and a spy on each team, however, this would require each team's "champion" to be guaranteed to not be the spy. Malak's super special note: good anti-lemur training.
+
+Goblin Massacre
+  Overview: A small group of fighters fend off an attack by the Goblin hordes.
+  Special rules: Goblins are only allowed to carry a single blue and die from any damage-dealing hit.
+  Rules: There are two teams: adventurers and goblins (ratios can be anywhere from 1:1, 2:3, or 1:4).
+  Goal: Adventurers - kill as many goblins as possible. Goblins - kill the adventurers.
+  Respawns: Off for adventurers, unlimited for Goblins (instant upon reaching one of the respawn points).
+  Notes: Untested.
+
+Chaos Gifts
+  Overview: Team battle where each team is randomly given "chaos gifts."
+  Special rules: A list of possible gifts is included below. Each team is given an equal number of gifts, but the gifts are random and randomly assigned to fighters.
+  Rules: There are two teams. Each team member from each team selects a slip of paper from a hat which contains an equal number of slips as there are fighters on the team. Some percentage of those slips have gifts written on them, the rest are blank.
+  Goal: Either be the last team standing or Evermore.
+  Respawns: Either off or infinite.
+  Notes: Possible gifts:
+    Do No Harm: Any weapon you wield heals instantly with a hit, but you cannot do any damage.
+	Psycho: You get 2 extra hitpoints to all locations, but you may only carry a single dagger and cannot be healed normally.
+	Slaying Arrow: Any projectile weapon you use (arrow, javelin, or rock) instantly kills upon a damage-dealing hit.
+	Bloodied Targe: Your shield is unbreakable and deals green damage, but your sword does no damage at all.
+	Red Mist: Any melee weapon you wield deals red damage, but you cannot be healed normally.
+	Absorption: You may heal a player by taking their wounds onto yourself through touch (this can heal Just a Flesh Wound, Red Mist, and Psycho at the cost of your life). You can be healed normally.
+	Necromancer: You may resurrect players by touching them and counting to 5; however, those you bring back die from any wounds they sustain, and cannot be reanimated twice. Necromancy is not limited to players which started on your team. Necromancy has the same contact rules as healing poems.
+	Just a Flesh Wound: Ignore all yellow and green damage (Slaying Arrow negates this but only deals normal damage instead of insta-kills). Cannot be healed normally.
+	No It Isn't: Limbs which are damaged are still usable. Limb damage still counts normally toward death.
+	The Curse of the Jester: You may only use thrown projectile weapons. When you throw a weapon, you must call "Cream Pie!" If a player hit by one of your weapons instantly calls "It's just a pie!" when hit, they take no damage. Otherwise, they die from any damage-dealing hit.
+	Juggernaught: You have 3 extra hitpoints to all locations, but you may only carry a single blue and cannot run. You cannot be healed.
+
